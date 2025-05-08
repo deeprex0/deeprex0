@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @deeprex0
+- 👀 I’m interested in Math, web dev, python language and all what you can do with it.
+- 🌱 I’m currently learning git,github, and linux
+- 📫 you'll find me in linkedin, twitter /daibbar
+- 😄 Email: daibbar.mohamed@gmail.com
+- ⚡ Fun fact: j'ai double bac.
