@@ -1,6 +1,3 @@
-- 👋 Hi, I’m @deeprex0
-- 👀 I’m interested in Math, web dev, Data Science, AI, python language and all what you can do with it.
-- 🌱 I’m currently learning Optimization and Django.
-- 📫 you'll find me in linkedin, twitter /daibbar
-- 😄 Email: daibbar.mohamed@gmail.com
-- ⚡ Fun fact: j'ai double bac.
+- 👋 Hi, I’m daibbar
+-  you can find me in linkedin, twitter /daibbar
+-  Email: daibbar.mohamed@gmail.com
